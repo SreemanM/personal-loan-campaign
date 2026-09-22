@@ -238,3 +238,10 @@ The artifact is excluded from Git through `.gitignore` because it can be reprodu
 ---
 
 This project demonstrates an end-to-end machine-learning classification workflow for a real-world banking marketing problem, from exploratory analysis and preprocessing through model tuning and business decision support.
+
+
+## Author
+
+**Sreeman Mandava**
+
+This project was completed as part of machine learning course portfolio.
